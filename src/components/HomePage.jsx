@@ -116,7 +116,7 @@ const HomePage = () => {
         setLoading(true)
         const myHeaders = new Headers();
 myHeaders.append("Content-Type", "application/json");
-myHeaders.append("X-goog-api-key", "AIzaSyDz1r2myUj36fBwJd_tZSxLx1UvSOFIfNs");
+myHeaders.append("X-goog-api-key", "AizaSyDz9r2myUj36fBwJd_tZSxLx1UvSOFIfNs");
 
 const raw = JSON.stringify({
   contents: [
