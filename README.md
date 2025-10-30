@@ -1,18 +1,34 @@
- # ✨ PostGen — Social Post Genie ✨
+📌 Social Media Post Generator — Demo App
 
-A small demo app that generates social media posts from raw text using a generative model. UI improved with emojis and platform-aware cards.
+A lightweight demo application that transforms raw text into engaging, platform-ready social media posts using a generative AI model. The UI is designed with emojis and platform-aware cards to make the experience visually appealing and relatable for each social media channel.
+demo : https://chic-maamoul-9734ce.netlify.app/
+✨ Features
 
-Note: Keep your API keys out of source—use env vars or a server-side proxy for production.
+🎯 Converts plain input text into polished social media posts
 
-Currently, two official plugins are available:
+🤖 Powered by a generative AI model (Gemini API)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🪄 Platform-aware output (LinkedIn, Instagram, Twitter, etc.)
 
-## React Compiler
+😍 UI enhanced with emojis & themed cards for each platform
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚡ Fast, beginner-friendly demo implementation
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React
+Gemini API (Generative AI)
+
+🚀 How to Use
+
+Enter any raw text idea
+
+Select the social platform
+
+Click Generate Post
+
+Copy and publish 🎉
+
+🎯 Purpose
+
+This project serves as a small demonstration of how generative AI can assist in social media content creation with a clean UI and fun design elements.
