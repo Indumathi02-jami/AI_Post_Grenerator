@@ -1,6 +1,8 @@
-# React + Vite
+ # ✨ PostGen — Social Post Genie ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small demo app that generates social media posts from raw text using a generative model. UI improved with emojis and platform-aware cards.
+
+Note: Keep your API keys out of source—use env vars or a server-side proxy for production.
 
 Currently, two official plugins are available:
 
